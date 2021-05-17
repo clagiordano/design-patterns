@@ -1,0 +1,12 @@
+{
+    "name": "clagiordano/design-patterns",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claudio Giordano",
+            "email": "claudio.giordano@autistici.org"
+        }
+    ],
+    "require": {}
+}
